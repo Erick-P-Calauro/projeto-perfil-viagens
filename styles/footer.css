@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding-block: 24px;
+}
+
+footer span {
+    font: var(--paragraph-md);
+    color: inherit;
+}
+
+footer a span {
+    padding: 4px;
+}
+
+footer div#terms {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
