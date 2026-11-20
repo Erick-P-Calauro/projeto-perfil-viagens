@@ -22,7 +22,7 @@
 
 body {
     font: var(--paragraph);
-    color: var(--text-color-primary);
+    color: var(--text-color-secondary);
     background-color: var(--background-color);
 }
 
@@ -34,6 +34,11 @@ a {
 a:hover {
     color: var(--brand-color);
     text-decoration: underline;
+}
+
+h1 {
+    font: var(--headline1);
+    color: var(--text-color-primary);
 }
 
 .container {

@@ -1,0 +1,53 @@
+section#about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding-block: 32px;
+}
+
+section#about p, section#about span {
+    font: var(--paragraph-md);
+    color: var(--text-color-secondary);
+}
+
+section#about img {
+    width: 176px;
+    height: 176px;
+}
+
+section#about ul {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    width: 280px;
+
+    list-style: none;
+}
+
+section#about li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+section#about li img {
+    width: 24px;
+    height: 24px;
+}
+
+section#about div#profile {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+section#about div#profile-description {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-align: left;
+
+    max-width: 384px;
+}
