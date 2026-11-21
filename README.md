@@ -1,3 +1,5 @@
+<img width="1672" height="834" alt="projeto-perfil-viagens" src="https://github.com/user-attachments/assets/d64ccf98-b81a-4375-99e0-41113cf02e8c" />
+
 # Projeto Prático : Perfil de Viagens
 
 Este repositório contém a resolução obtida no projeto prático do módulo "Layouts Avançados com CSS" da Formação Full-Stack da Rocketseat. 
